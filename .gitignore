@@ -44,3 +44,5 @@
 sysinfo.txt
 mono_crash.*
 crashlytics-build.properties
+ProjectSettings/Packages/com.unity.probuilder/Settings.json
+*.json
